@@ -1,12 +1,11 @@
 ---
-title: "My awesome website"
+title: "about me"
 output: 
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
 ---
 
-# This is Jeff's awesome website
+# This page has information about me\
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+I enrolled in 8105

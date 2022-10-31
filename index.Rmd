@@ -2,11 +2,33 @@
 title: "My awesome website"
 output: 
   html_document:
-    toc: true
+    toc: true  #table of contencts
     toc_float: true
-    theme: cerulean
 ---
 
 # This is Jeff's awesome website
+what if I add some extra stuff...?
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif) \
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+## Here is a subsection
+
+Add some extra information here
+
+```{r}
+rnorm(10)
+```
+
+# links to other website
+
+let's link to useful tools for data sciences: \
+* [Google](https://www.google.com/)\
+* [P8105](https://p8105.com)
+
+# local image 
+here is a image\
+![](image/ted.jpg)
+
+# let's do to page within the site
+
+[About me](about.html)
